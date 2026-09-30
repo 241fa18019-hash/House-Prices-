@@ -1,0 +1,2 @@
+model_name,model_type,version,dataset,target,training_rows,testing_rows,created_at,MAE,RMSE,R2,status
+House Price Prediction,Gradient Boosting,1.0,House Prices,SalePrice,1168,292,2026-09-29T22:56:38.735493,16670.238223738208,27786.957486725827,0.899337396414036,registered
